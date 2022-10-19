@@ -1,0 +1,1 @@
+start "" "./dist/__main__/labelme.exe"
