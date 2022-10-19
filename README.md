@@ -11,8 +11,7 @@ It is written in Python and uses Qt for its graphical interface.
 [wkentaro/labelme](https://github.com/wkentaro/labelme)
 
 # Requirements
-
-Windows10, 11
+Windows 10 or 11
 
 # Usage
 Just unzip the 'labelme.zip' file and run the labelme.shortcut file inside the unzipped folder
