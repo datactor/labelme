@@ -13,7 +13,7 @@ It is written in Python and uses Qt for its graphical interface.
 # Requirements
 Windows 10 or 11
 
-# Usage
+# Start
 1. Download ZIP this repo.
 2. Unzip the downloaded zip file.
 3. Execute the "labelme" ink file inside the unzipped folder.
